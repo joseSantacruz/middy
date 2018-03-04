@@ -51,7 +51,7 @@
   "dependencies": {
     "@types/aws-lambda": "0.0.22",
     "ajv": "^6.2.1",
-    "ajv-keywords": "^2.1.0",
+    "ajv-keywords": "^3.1.0",
     "http-errors": "^1.6.2",
     "qs": "^6.5.0",
     "querystring": "^0.2.0"
